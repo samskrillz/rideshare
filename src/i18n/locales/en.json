@@ -1,0 +1,23 @@
+{
+  "common": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "rating": {
+    "title": "Rate Your Ride",
+    "driverRating": "Driver Rating",
+    "vehicleRating": "Vehicle Rating",
+    "feedback": "Additional Feedback",
+    "submit": "Submit Rating"
+  },
+  "earnings": {
+    "title": "Earnings Dashboard",
+    "totalEarnings": "Total Earnings",
+    "trips": "Total Trips",
+    "hours": "Hours Online",
+    "average": "Average per Trip"
+  }
+}
